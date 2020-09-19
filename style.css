@@ -1,0 +1,23 @@
+/*
+ *Name: Hechun Zhang
+ *UnityID: Hzhang56
+ *Date: 9/18/2020
+ *Assignment: Independent Assignment 5 (HTML and Styling)
+ *Description: Create a website about me
+ */
+ 
+
+
+body {  
+background-color: #00ffff;
+}
+
+
+#photo-border_and_resize{
+    border: 2px solid #00FF00;
+	max-width: 200px ;
+	max-height: 250px ;
+}
+.table-border {
+    border: 1px solid #000000;
+}
